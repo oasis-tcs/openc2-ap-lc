@@ -44,8 +44,8 @@ OASIS policies.
 
 ## Further Description of this Repository
 
-__Any narrative content may be provided here by the TC, for example, if the Members wish to 
-provide an extended statement of purpose.__
+_Any narrative content may be provided here by the TC, for example, if the Members wish to 
+provide an extended statement of purpose._
 
 ## Contact
 
