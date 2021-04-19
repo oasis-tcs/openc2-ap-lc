@@ -1,4 +1,4 @@
-* Repository Contributions, Participation, and Public Access
+# Repository Contributions, Participation, and Public Access
 
 **Who may Contribute?** Contributors to this repository are expected to be 
 [Members](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2017-05-26#dMember)
