@@ -1,7 +1,7 @@
 # Repository Contributions, Participation, and Public Access
 
 **Who may Contribute?** Contributors to this repository are expected to be 
-[Members](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2017-05-26#dMember)
+[Members](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms#dMember)
 of the [OASIS Open Command and Control (OpenC2) TC](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=openc2) 
 for any substantive contributions.  Anyone wishing to 
 [participate](https://www.oasis-open.org/org/faq#committee-participation) in the TC's technical 
