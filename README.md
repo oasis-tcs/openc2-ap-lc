@@ -28,7 +28,7 @@ parse responses from systems that generate events such as system log, applicatio
 log, or error log messages.
 
 ## Contributions
-<p>As stated in this repository's [CONTRIBUTING.md](https://github.com/oasis-tcs/openc2-ap-lc/blob/master/CONTRIBUTING.md),
+As stated in this repository's [CONTRIBUTING.md](https://github.com/oasis-tcs/openc2-ap-lc/blob/master/CONTRIBUTING.md),
 contributors to this repository must be Members of the OASIS OpenC2 TC for any substantive change requests.  
 Anyone wishing to contribute to this GitHub project and [participate](https://www.oasis-open.org/join/participation-instructions)
 in the TC's technical activity is invited to join as an OASIS TC Member. Public feedback is also accepted, 
