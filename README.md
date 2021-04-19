@@ -1,9 +1,3 @@
-Template - TC GitHub README page
-Updated: 07/27/2018
-Editor: Chet Ensign 
-
-=== README.md ===
-
 # README
 
 Members of the [OASIS Open Command and Control (OpenC2) TC](https://www.oasis-open.org/committees/openc2/) 
