@@ -12,8 +12,8 @@ _Member_ in this context means any TC role or office other than OASIS TC Observe
 Persons who are not TC members are invited to open issues and provide comments using this 
 repository's [GitHub issues](https://github.com/oasis-tcs/openc2-ap-lc/issues/new)
 tracking facility or using the TC's 
-[comment list](https://www.oasis-open.org/committees/comments/index.php?wg_abbrev=openc2).  
-All such content created in GitHub Issues and/or posted to the TC's 
+[comment list](https://www.oasis-open.org/committees/comments/index.php?wg_abbrev=openc2). All 
+such content created in GitHub Issues and/or posted to the TC's 
 [archived comment list](https://lists.oasis-open.org/archives/openc2-comment/) is governed 
 by the terms of the 
 [OASIS Feedback License](https://www.oasis-open.org/policies-guidelines/ipr#appendixa).
